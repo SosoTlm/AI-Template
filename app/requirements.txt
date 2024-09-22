@@ -1,0 +1,6 @@
+- You will need fastapi
+- You will need uvicorn
+- You will need transformers
+- You will need torch
+
+IF NOT INSTALLED PLEASE INSTALL THEM BEFORE RUNNING THE PROJECT
